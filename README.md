@@ -7,4 +7,6 @@ CAPM examples are [here](https://nbviewer.jupyter.org/github/thsavage/Hirsh-Fell
 
 My assessment of the current state of CRE is [here](https://github.com/thsavage/Hirsh-Fellows-Real-Estate-Finance/blob/master/An%20Assessment%20of%20the%20Current%20State%20of%20Real%20Estate.ipynb).
 
+My August 12, 2021 present is [here](https://nbviewer.jupyter.org/github/thsavage/Hirsh-Fellows-Real-Estate-Finance/blob/master/Macroeconomics%20and%20Real%20Estate.ipynb).
+
 See you soon.
